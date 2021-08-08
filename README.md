@@ -15,7 +15,7 @@ Usage example
 python princeton_highlander_point_counter.py --decklist tibalt_princeton_highlander.txt
 ```
 
-Example output
+Example output:
 ```
 Chrome Mox - 1 pt.
 Dockside Extortionist - 1 pt.
